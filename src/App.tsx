@@ -419,10 +419,6 @@ function App() {
                       <Mail className="w-5 h-5" />
                       <span>princewilleghosa2017@gmail.com</span>
                     </a>
-                    <a href="tel:+19028184598" className="flex items-center gap-3 text-gray-600 dark:text-gray-300 hover:text-blue-600 transition-colors">
-                      <Phone className="w-5 h-5" />
-                      <span>+1 (902) 818-4598</span>
-                    </a>
                     <a href="https://www.linkedin.com/in/princewillguobadia" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-600 dark:text-gray-300 hover:text-blue-600 transition-colors">
                       <Linkedin className="w-5 h-5" />
                       <span>LinkedIn Profile</span>
@@ -434,7 +430,7 @@ function App() {
                   </div>
                   <div className="mt-4">
                     <p className="text-gray-600 dark:text-gray-300">
-                      <strong>Address:</strong> 93 Kinloss Street, Kleinberg, Vaughan, ON, Canada
+                      <strong>Address:</strong>Kleinberg, Vaughan, ON, Canada
                     </p>
                   </div>
                 </div>
